@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on website deployment
 - 📫 How to reach me niroukhfiras@gmail.com
-- 😄 Pronouns: HIM
+- 😄 Pronouns: HE
 - ⚡ Fun fact: I am a chemistry teacher, and all of this is a hobby.
 
 <!---
